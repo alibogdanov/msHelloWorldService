@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7BJ7O6RIczuVavWAcSRNNJuK2vyQRlOFPoBAD8AXmfI=",
+  "Source": "msHelloWorldService",
+  "BasePath": "_content/msHelloWorldService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
